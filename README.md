@@ -11,6 +11,40 @@ Clean 23.000+ data of Car Sales Report with MySQL
 
 4. Remove Rows and Columns
 
+# Variables
+
+- Car_id
+
+- Date
+
+- Customer Name
+
+- Gender
+
+- Annual Income
+
+- Dealer_Name
+
+- Company
+
+- Model
+
+- Engine
+
+- Transmission
+
+- Color
+
+- Price ($)
+
+- Dealer_No
+
+- Body Style
+
+- Phone
+
+- Dealer_Region
+
 # Steps
 
 1. Import Data
