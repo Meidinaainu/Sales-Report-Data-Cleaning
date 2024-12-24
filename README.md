@@ -11,6 +11,8 @@ Clean and Explore 23.000+ data of Car Sales Report with MySQL
 
 4. Remove Rows and Columns
 
+5. Explore Data
+
 # Variables
 
 - Car_id
@@ -45,7 +47,7 @@ Clean and Explore 23.000+ data of Car Sales Report with MySQL
 
 - Dealer_Region
 
-# Steps
+# Steps Data Cleaning
 
 1. Import Data
    
@@ -71,4 +73,24 @@ Clean and Explore 23.000+ data of Car Sales Report with MySQL
     
 12. Delete Column and Rows
     
-13. Final Data 
+13. Final Data
+
+# Exploratory Data Analysis
+
+1. People with annual income > 1000000 and sorted by car price
+
+2. Dealers based on sales from the highest to the lowest
+
+3. Car Company and Model based on sales from the highest to the lowest
+
+4. Region based on sales from the highest to the lowest
+
+5. Check the earliest and latest date
+
+6. Year based on sales from the highest to the lowest
+
+7. Month based on sales from the highest to the lowest
+
+8. Count Rolling Total
+
+9. Top 3 dealers with high sales in each year
